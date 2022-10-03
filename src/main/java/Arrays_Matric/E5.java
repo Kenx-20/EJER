@@ -1,4 +1,4 @@
-package kenyi.arrays_matric;
+package Arrays_Matric;
 import java.util.Random;
 
 public class E5 {
