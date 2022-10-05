@@ -28,7 +28,7 @@ public class E5 {
         int suma=0;
         int cont=1;
         for (int j = 0; j < matriz.length; j++) {
-            for (i = 0; i < matriz.length; i++) {
+            for (i = 0; i < matriz[j].length; i++) {
                 if (j%2==0) {
                     suma=suma+matriz[i][j];
                 }               
